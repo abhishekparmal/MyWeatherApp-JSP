@@ -53,7 +53,7 @@ MyWeatherApp-JSP/
 1. Register on **OpenWeather** and get an API key.
 2. Replace `<YOUR_API_KEY>` in the `myScript.js` file:
    ```js
-   const apiKey = "<YOUR_API_KEY>";
+   const apiKey = "<68e398aebfd3b1b1f3891c14c2340431>";
    ```
 
 ## 📷 Screenshots
